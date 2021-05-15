@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyadev</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyadevkalakonda&label=Profile%20views&color=0e75b6&style=flat" alt="satyadevkalakonda" /> </p>
 
@@ -14,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyadevkalakonda&show_icons=true&locale=en&layout=compact" alt="satyadevkalakonda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyadevkalakonda&show_icons=true&locale=en" alt="satyadevkalakonda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyadevkalakonda&" alt="satyadevkalakonda" /></p>
